@@ -23,5 +23,9 @@ Book.create([
 
   { title: 'The Help', author: 'Kathryn Stockett', image: 'https://prodimage.images-bn.com/pimages/9780425232200_p0_v4_s550x406.jpg', genre_id: 2 },
 
-  { title: 'The Gifts of Imperfection', author: 'Brene Brown', image: 'https://prodimage.images-bn.com/pimages/9781592858491_p0_v6_s550x406.jpg', genre_id: 8 }
+  { title: 'The Gifts of Imperfection', author: 'Brene Brown', image: 'https://prodimage.images-bn.com/pimages/9781592858491_p0_v6_s550x406.jpg', genre_id: 8 },
+
+  { title: 'The Count of Monte Cristo', author: 'Alexandre Dumas', image: 'https://prodimage.images-bn.com/pimages/9781593081515_p0_v1_s550x406.jpg', genre_id: 3 },
+
+  { title: 'The Kite Runner', author: 'Khaled Hosseini', image: 'https://prodimage.images-bn.com/pimages/9781594631931_p0_v3_s600x595.jpg', genre_id: 1 }
 ])
